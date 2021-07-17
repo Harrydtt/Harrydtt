@@ -1,8 +1,8 @@
-- 👋 hey there, I’m @Harrydtt   
-- 👀 I’m interested in gaming and watching films
-- <code><img height="30" src="https://user-images.githubusercontent.com/62132425/126031653-1fb223a6-1d5b-4f34-96ee-84d40264e4d4.gif"></code> I’m currently learning Python
-- 💞️ I’m working on Weather jobs, ingesting data then creating shows
-- 📫 Any freelance work about automation job? do reach, email: harrypotterdtt@gmail.com  :)     
+- 👋   hey there, I’m @Harrydtt   
+- 👀   I’m interested in gaming and watching films
+- <code><img height="30" src="https://user-images.githubusercontent.com/62132425/126031786-02159f54-c651-46e1-b156-2e7bbca20524.gif"></code> I’m currently learning Python
+- 💞️   I’m working on Weather jobs, ingesting data then creating shows
+- 📫   Any freelance work about automation job? do reach, email: harrypotterdtt@gmail.com  :)     
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
 
@@ -20,5 +20,4 @@
 
 <code><img height="20" src="https://user-images.githubusercontent.com/62132425/126031328-0775e250-ad30-4b07-be31-9d90c17c4951.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/62132425/126031332-d0773953-f60e-4503-8d39-230f961c5f0b.png"></code>
-
 
