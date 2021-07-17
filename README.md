@@ -4,8 +4,6 @@
 - 💞️   I’m working on Weather jobs, ingesting data then creating shows
 - 📫   Any freelance work about automation job? do reach, email: harrypotterdtt@gmail.com  :)     
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
-
 **Languages and tools:**  
 
 <code><img height="20" src="https://user-images.githubusercontent.com/62132425/126031323-433fa230-9798-4799-bcd6-90ac46be8b8e.png"></code>
