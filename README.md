@@ -1,8 +1,8 @@
 - 👋   hey there, I’m @Harrydtt   
 - 👀   I’m interested in gaming and watching films
-- <code><img height="30" src="https://user-images.githubusercontent.com/62132425/126031786-02159f54-c651-46e1-b156-2e7bbca20524.gif"></code> I’m currently learning Python & Flutter
+- 📖   I’m currently learning Python & Flutter
 - 💞️   I’m working on Weather jobs, ingesting data then creating shows
-- 📫   Any freelance work about automation job? do reach, email: harrypotterdtt@gmail.com  :)     
+- 📫   Any freelance work about automation job? do reach, email: thaithuy.work@gmail.com  :)     
 
 **Languages and tools:**  
 
