@@ -1,8 +1,9 @@
 - 👋   hey there, I’m @Harrydtt   
-- 👀   I’m interested in gaming and watching films
+- 👀   I’m providing solution for any kind of Weather requirement: playback system. daily weather forecast, warning report(video/images), weather data. My database from both abroad (NewZealand MetService) and domestic (VN hydromet).
+- 🎀   Demo videos: https://www.youtube.com/c/MetraWeatherVietNam
 - 📖   I’m currently learning Python & Flutter
 - 💞️   I’m working on Weather jobs, ingesting data then creating shows
-- 📫   Any freelance work about automation job? do reach, email: thaithuy.work@gmail.com  :)     
+- 📫   Any freelance work about automation job or weather service/system/video? do reach, email: thaithuy.work@gmail.com  :)     
 
 **Languages and tools:**  
 
