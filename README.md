@@ -1,8 +1,8 @@
 - 👋   Hey there, I’m @Harrydtt   
-- 👀   I’m providing solution for any kind of Weather requirement: playback system for live recording, daily/hourly/monthly weather forecast, phenomenom warning report(video/image/pdf), weather data. My database from both abroad (NewZealand MetService) and domestic (VN hydromet) or even any your data (grib, csv, xml, json, png, etc.)
+- 👀   I’m providing solutions for any kind of Weather requirement: playback system for live streaming/recording, daily/hourly/monthly weather forecast, phenomenon warning report(video/image/pdf), weather data. My database from both abroad (NewZealand MetService) and domestic (VN Hydromet) or even any of your data (GRIB, CSV, XML, JSON, png, etc.)
 - 🎀   Demo weather videos: https://www.youtube.com/c/MetraWeatherVietNam
 - 📖   I’m currently learning Python & Flutter
-- 📫   Any job about automation task or weather service/system/video or making e-learning course ? do reach, email: thaithuy.work@gmail.com  :)     
+- 📫   Any job about automation task or weather service/system/video or making e-learning course? do reach, email: thaithuy.work@gmail.com  :) 
 
 **Languages and tools:**  
 
