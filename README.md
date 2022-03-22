@@ -23,6 +23,8 @@
 
 <img height="20" src="https://user-images.githubusercontent.com/62132425/126031328-0775e250-ad30-4b07-be31-9d90c17c4951.png"> - <img height="20" src="https://user-images.githubusercontent.com/62132425/126031332-d0773953-f60e-4503-8d39-230f961c5f0b.png">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harrydtt&hide=TeX&layout=compact)
+
 🎀 Thank you 🎀
 
 
